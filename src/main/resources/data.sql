@@ -1,0 +1,10 @@
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(101,78787,'smith','QHP','APPROVED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(102,87787,'john','SNAP','TERMINATED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(103,63787,'luis','CCAP','DENIED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(104,95787,'sam','QHP','APPROVED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(105,89787,'joseph','QHP','DENIED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(106,80787,'jane','SNAP','TERMINATED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(107,20787,'david','CCAP','APPROVED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(108,60787,'robert','QHP','DENIED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(109,73787,'siman','SNAP','APPROVED');
+INSERT INTO insurance_plan(plan_id,holder_ssn,plan_holder,plan_name,plan_status)VALUES(110,79787,'lucy','CCAP','APPROVED');
